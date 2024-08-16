@@ -16,8 +16,8 @@
 
 ## Tecnologias que uso no meu cotidiano
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,spring,ruby,rails,js,html,css,git,github" />
   </a>
 </p>
