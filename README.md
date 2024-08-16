@@ -1,6 +1,6 @@
 ## Olá!
 - 👋 Meu nome é Enzo Makenzy!
-- 🌱 Estudando Java e Ruby on Rails
+- 🌱 Estudando Spring e Ruby on Rails
 - 💻 Cursando Análise e Desenvolvimento de Sistemas 
 - 📫 Onde me encontrar: enzomqueiroz@gmail.com 
 
