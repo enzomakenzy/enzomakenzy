@@ -1,6 +1,6 @@
 ## Olá!
 - 👋 Meu nome é Enzo Makenzy!
-- 🌱 Estudando Spring e Ruby on Rails
+- 🌱 Estudando Ruby on Rails e TailwindCSS
 - 💻 Cursando Análise e Desenvolvimento de Sistemas 
 - 📫 Onde me encontrar: enzomqueiroz@gmail.com 
 
@@ -18,6 +18,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,ruby,rails,js,html,css,postgres,git,github" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,git,github" />
   </a>
 </p>
