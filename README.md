@@ -18,6 +18,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,js,html,css,postgres,git,github" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,tailwind,js,html,css,postgres,git,github" />
   </a>
 </p>
