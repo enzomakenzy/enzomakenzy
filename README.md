@@ -1,6 +1,6 @@
 ## Olá!
 - 👋 Meu nome é Enzo Makenzy!
-- 🌱 Estudando Ruby on Rails e TailwindCSS
+- 🌱 Estudando React e TailwindCSS
 - 💻 Cursando Análise e Desenvolvimento de Sistemas 
 - 📫 Onde me encontrar: enzomqueiroz@gmail.com 
 
