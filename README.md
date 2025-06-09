@@ -14,7 +14,7 @@
   <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomakenzy&layout=compact&langs_count=7&theme=radical"/>
   </div>
 
-## Tecnologias que uso no meu cotidiano
+## TechStack
 
 <p>
   <a href="https://skillicons.dev">
