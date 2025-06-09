@@ -1,7 +1,7 @@
 ## Olá!
 - 👋 Meu nome é Enzo Makenzy!
 - 🌱 Estudando React Native e TailwindCSS
-- 💻 Cursando Análise e Desenvolvimento de Sistemas 
+- 💻 Graduado em Análise e Desenvolvimento de Sistemas 
 - 📫 Onde me encontrar: enzomqueiroz@gmail.com 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-makenzy-5a454a220/) 
@@ -18,6 +18,6 @@
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,tailwind,typescript,react,postgres,postman,git,github,electron" />
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,postman,ruby,rails,tailwind,windcss,styledcomponents,git,github" />
   </a>
 </p>
