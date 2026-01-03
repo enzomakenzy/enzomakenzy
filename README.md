@@ -1,6 +1,6 @@
 ## Olá!
 - 👋 Meu nome é Enzo Makenzy!
-- 🌱 Estudando React Native e TailwindCSS
+- 🌱 Estudando NestJs e DDD
 - 💻 Graduado em Análise e Desenvolvimento de Sistemas 
 - 📫 Onde me encontrar: enzomqueiroz@gmail.com 
 
