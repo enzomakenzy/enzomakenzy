@@ -11,7 +11,7 @@
 
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/javascript-%2320232A?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Javascript](https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=%23242004)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=%23FFF)
 ![NodeJs](https://img.shields.io/badge/node.js-%235FA04E?style=for-the-badge&logo=node.js&logoColor=%23FFF)
 ![Express](https://img.shields.io/badge/expressjs-%23000000?style=for-the-badge&logo=express&logoColor=%23FFF)
@@ -28,7 +28,6 @@
 ![Styled Components](https://img.shields.io/badge/styled--components-%23DB7093?style=for-the-badge&logo=styled-components&logoColor=%23fff)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn%2Fui-%23000000?style=for-the-badge&logo=shadcn%2Fui&logoColor=%23fff)
 ![Zod](https://img.shields.io/badge/zod-%23408AFF?style=for-the-badge&logo=zod&logoColor=%23fff)
-![Brevo](https://img.shields.io/badge/brevo-%230B996E?style=for-the-badge&logo=brevo&logoColor=%23fff)
 ![Eslint](https://img.shields.io/badge/eslint-%234B32C3?style=for-the-badge&logo=eslint&logoColor=%23fff)
 ![Docker](https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=%23fff)
 ![Git](https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=%23fff)
