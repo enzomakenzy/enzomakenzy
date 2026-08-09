@@ -1,6 +1,7 @@
 # Olá, sou Enzo Makenzy! 👋
 
 - 💼 Desenvolvedor FullStack no **Senac/RN**
+- 📗 Cursando **Engenharia de Software**
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas**
 - 📚 Aprofundando estudos em **AWS**
 - 📫 Contato: enzomqueiroz@gmail.com
