@@ -43,7 +43,7 @@
 
 <div align="center">
   <a href="https://github.com/enzomakenzy/">
-    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api?username=enzomakenzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api/top-langs/?username=enzomakenzy&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api?username=enzomakenzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true&exlude_repo=portfolioficticio,alura-plus,sabores-em-formacao,ignite-gym"/>
+    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api/top-langs/?username=enzomakenzy&layout=compact&langs_count=7&theme=radical&exclude_repo=portfolioficticio,alura-plus,sabores-em-formacao,ignite-gym"/>
   </a>
 </div>
