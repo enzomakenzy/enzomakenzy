@@ -18,6 +18,8 @@
 ![Express](https://img.shields.io/badge/expressjs-%23000000?style=for-the-badge&logo=express&logoColor=%23FFF)
 ![Nestjs](https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=%23FFF)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%234169E1?style=for-the-badge&logo=postgresql&logoColor=%23FFF)
+![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=%23FFF)
+![Rails](https://img.shields.io/badge/rails-%23D30001?style=for-the-badge&logo=rubyonrails&logoColor=%23FFF)
 ![AWS](https://img.shields.io/badge/AWS-%2320232A?style=for-the-badge&logo=amazonaws&logoColor=%23FF9900)
 ![Prisma](https://img.shields.io/badge/prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=%23FFF)
 ![Vitest](https://img.shields.io/badge/vitest-000000?style=for-the-badge&logo=vitest&logoColor=%2300FF74)
@@ -41,7 +43,7 @@
 
 <div align="center">
   <a href="https://github.com/enzomakenzy/">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=enzomakenzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzomakenzy&layout=compact&langs_count=7&theme=radical"/>
+    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api?username=enzomakenzy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats-mocha-two-39.vercel.app/api/top-langs/?username=enzomakenzy&layout=compact&langs_count=7&theme=radical"/>
   </a>
 </div>
